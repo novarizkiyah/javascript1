@@ -3,3 +3,4 @@ function calculate(value) {
 }
 
 console.log(calculate(3));
+console.log
